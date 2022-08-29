@@ -5,8 +5,8 @@ The Arabic language is now facing many problems due to the increase in verb conj
 
 The dataset was collected by a research group at Nile University (NU). It is a balanced dataset consists of 10,065 Arabic tweets mostly using Egyptian dialect, and was manually annotated using eight emotions (sadness, anger, joy, surprise, love, sympathy, fear and none). It was collected using the” Olympics” hashtags from Egypt in the period between Jul 2016 and Aug 2016.
 
-to find more information about the study:
+**To Find More Information About The Study:**
 
-[Emotion detection of Arabic Tweets using Arabic Transformers_2.pdf](https://github.com/mohamedabdelmohsen254/Preprocessing-Techniques-on-Arabic-Test/files/9447848/Emotion.detection.of.Arabic.Tweets.using.Arabic.Transformers_2.pdf)
+[Emotion detection of Arabic Tweets using Arabic Transformers.pdf](https://github.com/mohamedabdelmohsen254/Preprocessing-Techniques-on-Arabic-Test/files/9447848/Emotion.detection.of.Arabic.Tweets.using.Arabic.Transformers_2.pdf)
 
 [Arabic Transformers poster.pdf](https://github.com/mohamedabdelmohsen254/Preprocessing-Techniques-on-Arabic-Test/files/9447845/Arabic.Transformers.poster.pdf)
