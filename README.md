@@ -1,0 +1,2 @@
+# Preprocessing-Techniques-on-Arabic-Test
+Data pre-processing is important to minimize the noise and get a better classification accuracy and we applied a lot of techniques in preprocessing the Arabic text such as removing stop words, non-Arabic letters and spaces, Diacritics, Punctuation, Links, mentions, retweet indicators and suffixes and prefixes also, we reduced the Arabic words to their roots using different stemmers and we handled emojis and emoticons in the data in different ways
